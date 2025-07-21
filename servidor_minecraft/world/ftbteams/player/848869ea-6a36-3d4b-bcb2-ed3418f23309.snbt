@@ -1,0 +1,17 @@
+{
+	id: "848869ea-6a36-3d4b-bcb2-ed3418f23309"
+	type: "player"
+	player_name: "Sanguchito"
+	ranks: {
+		848869ea-6a36-3d4b-bcb2-ed3418f23309: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Sanguchito"
+		"ftbteams:description": ""
+		"ftbteams:color": "#C2FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,133 +1,133 @@
-[17:52:08] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[17:52:08] [INIT] Loaded plugins:
-[17:52:08] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[17:52:08] [INIT] - io.github.mortuusars.exposure.integration.kubejs.ExposureJSPlugin
-[17:52:08] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
-[17:52:08] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
-[17:52:08] [INFO] Loaded script server_scripts:eyeofender.js in 0.008 s
-[17:52:08] [INFO] Loaded script server_scripts:backpacked.js in 0.0 s
-[17:52:08] [INFO] Loaded script server_scripts:rabbithide.js in 0.001 s
-[17:52:08] [INFO] Loaded script server_scripts:dixtasarmorydiamondlongsword.js in 0.001 s
-[17:52:08] [INFO] Loaded script server_scripts:diamondbattleaxe.js in 0.001 s
-[17:52:08] [INFO] Loaded script server_scripts:sophisticatedbackpacks.js in 0.001 s
-[17:52:08] [INFO] Loaded script server_scripts:brewingstand.js in 0.0 s
-[17:52:08] [INFO] Loaded script server_scripts:chitinhelmet.js in 0.0 s
-[17:52:08] [INFO] Loaded script server_scripts:enchantingtable.js in 0.001 s
-[17:52:08] [INFO] Loaded 9/9 KubeJS server scripts in 0.033 s with 0 errors and 0 warnings
-[17:52:08] [INFO] Scripts loaded
-[17:52:08] [INFO] Initializing recipe event...
-[17:52:11] [INFO] Processing recipes...
-[17:52:11] [WARN] Failed to parse recipe 'dixtas_armory:necromium_shortsword_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'arphex:spacetime_helmet[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'arphex:spectral_legs[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'dixtas_armory:necromium_halberd_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'dixtas_armory:adamantite_rapier_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'dixtas_armory:adamantite_throwing_knife_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'dixtas_armory:adamantite_katana_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'dixtas_armory:necromium_zweihander_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'dixtas_armory:adamantite_glaive_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'dixtas_armory:adamantite_longsword_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'dixtas_armory:silver_halberd[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'dixtas_armory:electrum_glaive_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'arphex:jugger_boot[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'dixtas_armory:electrum_spear_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'dixtas_armory:electrum_rapier_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'dixtas_armory:necromium_stiletto_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'arphex:spectral_chest[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'arphex:umbral_helm[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'arphex:spectral_boots[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'dixtas_armory:electrum_halberd_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'dixtas_armory:electrum_twinblade_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'dixtas_armory:adamantite_dagger_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'dixtas_armory:electrum_javelin_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'arphex:chitin_legs_3[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'arphex:chitin_legs_2[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'arphex:vital_boots_upgrade[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'dixtas_armory:electrum_katana_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'dixtas_armory:necromium_longsword_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'dixtas_armory:silver_chakram[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'arphex:vital_leggings_upgrade[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'arphex:jugger_chest[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'dixtas_armory:necromium_battle_axe_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'dixtas_armory:necromium_shuriken_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'dixtas_armory:silver_rapier[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'dixtas_armory:silver_longsword[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'dixtas_armory:necromium_javelin_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'dixtas_armory:netherite_spear_two_handed_smithing[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'base' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'arphex:chitin_chestplate_2[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'arphex:chitin_chestplate_3[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'dixtas_armory:silver_dagger[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'dixtas_armory:silver_zweihander[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'dixtas_armory:necromium_spear_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'dustydecorations:gold_pile_reverse_recipe[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'dixtas_armory:netherite_battle_axe_two_handed_smithing[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'base' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'dixtas_armory:silver_greatsword[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'dixtas_armory:silver_javelin[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'dixtas_armory:electrum_stiletto_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'dixtas_armory:necromium_throwing_knife_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'dixtas_armory:adamantite_stiletto_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'dixtas_armory:silver_stiletto[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'arphex:chitin_boots_3[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'arphex:chitin_boots_2[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'arphex:infernal_boots_upgrade[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'dixtas_armory:adamantite_zweihander_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'arphex:spacetime_leggings[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'dixtas_armory:electrum_shuriken_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'dixtas_armory:adamantite_shortsword_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'dixtas_armory:necromium_rapier_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'dixtas_armory:necromium_katana_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'dixtas_armory:silver_battle_axe[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'dixtas_armory:silver_throwing_knife[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'dixtas_armory:electrum_chakram_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'dixtas_armory:silver_pike[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'dixtas_armory:netherite_katana_two_handed_smithing[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'base' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'dixtas_armory:electrum_battle_axe_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'dixtas_armory:necromium_glaive_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'arphex:umbral_chest[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'dixtas_armory:silver_katana[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'dixtas_armory:adamantite_pike_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'arphex:chitin_helmet_2[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'arphex:chitin_helmet_3[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'dixtas_armory:necromium_pike_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'dixtas_armory:electrum_longsword_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'arphex:infernal_leggings_upgrade[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'dixtas_armory:adamantite_battle_axe_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'dixtas_armory:silver_twinblade[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'dixtas_armory:necromium_dagger_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'dixtas_armory:silver_spear[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'arphex:infernal_chestplate_upgrade[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'arphex:umbral_boots[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'dixtas_armory:electrum_shortsword_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'dixtas_armory:silver_shuriken[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'dixtas_armory:electrum_greatsword_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'arphex:spacetime_boots[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'dixtas_armory:silver_shortsword[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'dixtas_armory:electrum_zweihander_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'dixtas_armory:adamantite_greatsword_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'arphex:infernal_helmet_upgrade[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'dixtas_armory:adamantite_twinblade_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'dixtas_armory:adamantite_spear_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'dixtas_armory:necromium_chakram_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'dixtas_armory:electrum_dagger_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'dixtas_armory:adamantite_shuriken_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'arphex:vital_chest_upgrade[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'dixtas_armory:necromium_twinblade_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'dixtas_armory:necromium_greatsword_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'dixtas_armory:electrum_pike_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'arphex:spectral_helm[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'dustydecorations:bucket_o_coins_recipe[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'arphex:jugger_head[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'arphex:vital_helmet_upgrade[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'dixtas_armory:electrum_throwing_knife_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'dixtas_armory:adamantite_halberd_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'arphex:spacetime_chestplate[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'dixtas_armory:adamantite_chakram_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'arphex:umbral_legs[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'dixtas_armory:adamantite_javelin_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'arphex:jugger_leg[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
-[17:52:11] [WARN] Failed to parse recipe 'dixtas_armory:silver_glaive[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[17:52:11] [INFO] Found 7338 recipes in 221.4 ms
-[17:52:12] [INFO] Posted recipe events in 265.7 ms
-[17:52:12] [WARN] Error parsing recipe alexsdelight:barbecue_on_a_stick[minecraft:crafting_shapeless]: {"group":"barbecue_stick","type":"minecraft:crafting_shapeless","ingredients":[{"item":"farmersdelight:tomato"},{"item":"farmersdelight:onion"},{"item":"amfd:singular_cooked_moose_rib"},{"item":"minecraft:cooked_chicken"},{"item":"minecraft:stick"},{"item":"minecraft:stick"}],"result":{"item":"farmersdelight:barbecue_stick","count":2}}: Unknown item 'amfd:singular_cooked_moose_rib'
-[17:52:12] [INFO] Added 9 recipes, removed 18 recipes, modified 0 recipes, with 1 failed recipes in 92.96 ms
-[17:52:37] [INFO] Server resource reload complete!
+[22:32:57] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[22:32:57] [INIT] Loaded plugins:
+[22:32:57] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[22:32:57] [INIT] - io.github.mortuusars.exposure.integration.kubejs.ExposureJSPlugin
+[22:32:57] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[22:32:57] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[22:32:57] [INFO] Loaded script server_scripts:eyeofender.js in 0.008 s
+[22:32:57] [INFO] Loaded script server_scripts:backpacked.js in 0.001 s
+[22:32:57] [INFO] Loaded script server_scripts:rabbithide.js in 0.0 s
+[22:32:57] [INFO] Loaded script server_scripts:dixtasarmorydiamondlongsword.js in 0.0 s
+[22:32:57] [INFO] Loaded script server_scripts:diamondbattleaxe.js in 0.001 s
+[22:32:57] [INFO] Loaded script server_scripts:sophisticatedbackpacks.js in 0.001 s
+[22:32:57] [INFO] Loaded script server_scripts:brewingstand.js in 0.0 s
+[22:32:57] [INFO] Loaded script server_scripts:chitinhelmet.js in 0.0 s
+[22:32:57] [INFO] Loaded script server_scripts:enchantingtable.js in 0.001 s
+[22:32:57] [INFO] Loaded 9/9 KubeJS server scripts in 0.034 s with 0 errors and 0 warnings
+[22:32:57] [INFO] Scripts loaded
+[22:32:57] [INFO] Initializing recipe event...
+[22:33:01] [INFO] Processing recipes...
+[22:33:01] [WARN] Failed to parse recipe 'dixtas_armory:necromium_shortsword_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'arphex:spacetime_helmet[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'arphex:spectral_legs[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'dixtas_armory:necromium_halberd_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'dixtas_armory:adamantite_rapier_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'dixtas_armory:adamantite_throwing_knife_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'dixtas_armory:adamantite_katana_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'dixtas_armory:necromium_zweihander_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'dixtas_armory:adamantite_glaive_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'dixtas_armory:adamantite_longsword_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'dixtas_armory:silver_halberd[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'dixtas_armory:electrum_glaive_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'arphex:jugger_boot[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'dixtas_armory:electrum_spear_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'dixtas_armory:electrum_rapier_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'dixtas_armory:necromium_stiletto_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'arphex:spectral_chest[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'arphex:umbral_helm[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'arphex:spectral_boots[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'dixtas_armory:electrum_halberd_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'dixtas_armory:electrum_twinblade_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'dixtas_armory:adamantite_dagger_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'dixtas_armory:electrum_javelin_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'arphex:chitin_legs_3[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'arphex:chitin_legs_2[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'arphex:vital_boots_upgrade[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'dixtas_armory:electrum_katana_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'dixtas_armory:necromium_longsword_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'dixtas_armory:silver_chakram[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'arphex:vital_leggings_upgrade[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'arphex:jugger_chest[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'dixtas_armory:necromium_battle_axe_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'dixtas_armory:necromium_shuriken_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'dixtas_armory:silver_rapier[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'dixtas_armory:silver_longsword[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'dixtas_armory:necromium_javelin_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'dixtas_armory:netherite_spear_two_handed_smithing[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'base' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'arphex:chitin_chestplate_2[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'arphex:chitin_chestplate_3[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'dixtas_armory:silver_dagger[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'dixtas_armory:silver_zweihander[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'dixtas_armory:necromium_spear_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'dustydecorations:gold_pile_reverse_recipe[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'dixtas_armory:netherite_battle_axe_two_handed_smithing[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'base' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'dixtas_armory:silver_greatsword[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'dixtas_armory:silver_javelin[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'dixtas_armory:electrum_stiletto_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'dixtas_armory:necromium_throwing_knife_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'dixtas_armory:adamantite_stiletto_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'dixtas_armory:silver_stiletto[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'arphex:chitin_boots_3[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'arphex:chitin_boots_2[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'arphex:infernal_boots_upgrade[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'dixtas_armory:adamantite_zweihander_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'arphex:spacetime_leggings[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'dixtas_armory:electrum_shuriken_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'dixtas_armory:adamantite_shortsword_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'dixtas_armory:necromium_rapier_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'dixtas_armory:necromium_katana_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'dixtas_armory:silver_battle_axe[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'dixtas_armory:silver_throwing_knife[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'dixtas_armory:electrum_chakram_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'dixtas_armory:silver_pike[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'dixtas_armory:netherite_katana_two_handed_smithing[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'base' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'dixtas_armory:electrum_battle_axe_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'dixtas_armory:necromium_glaive_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'arphex:umbral_chest[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'dixtas_armory:silver_katana[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'dixtas_armory:adamantite_pike_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'arphex:chitin_helmet_2[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'arphex:chitin_helmet_3[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'dixtas_armory:necromium_pike_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'dixtas_armory:electrum_longsword_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'arphex:infernal_leggings_upgrade[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'dixtas_armory:adamantite_battle_axe_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'dixtas_armory:silver_twinblade[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'dixtas_armory:necromium_dagger_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'dixtas_armory:silver_spear[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'arphex:infernal_chestplate_upgrade[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'arphex:umbral_boots[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'dixtas_armory:electrum_shortsword_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'dixtas_armory:silver_shuriken[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'dixtas_armory:electrum_greatsword_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'arphex:spacetime_boots[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'dixtas_armory:silver_shortsword[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'dixtas_armory:electrum_zweihander_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'dixtas_armory:adamantite_greatsword_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'arphex:infernal_helmet_upgrade[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'dixtas_armory:adamantite_twinblade_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'dixtas_armory:adamantite_spear_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'dixtas_armory:necromium_chakram_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'dixtas_armory:electrum_dagger_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'dixtas_armory:adamantite_shuriken_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'arphex:vital_chest_upgrade[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'dixtas_armory:necromium_twinblade_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'dixtas_armory:necromium_greatsword_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'dixtas_armory:electrum_pike_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'arphex:spectral_helm[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'dustydecorations:bucket_o_coins_recipe[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[22:33:01] [WARN] Failed to parse recipe 'arphex:jugger_head[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[22:33:02] [WARN] Failed to parse recipe 'arphex:vital_helmet_upgrade[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[22:33:02] [WARN] Failed to parse recipe 'dixtas_armory:electrum_throwing_knife_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[22:33:02] [WARN] Failed to parse recipe 'dixtas_armory:adamantite_halberd_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[22:33:02] [WARN] Failed to parse recipe 'arphex:spacetime_chestplate[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[22:33:02] [WARN] Failed to parse recipe 'dixtas_armory:adamantite_chakram_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[22:33:02] [WARN] Failed to parse recipe 'arphex:umbral_legs[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[22:33:02] [WARN] Failed to parse recipe 'dixtas_armory:adamantite_javelin_smithing[minecraft:smithing_transform]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[22:33:02] [WARN] Failed to parse recipe 'arphex:jugger_leg[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[22:33:02] [WARN] Failed to parse recipe 'dixtas_armory:silver_glaive[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[22:33:02] [INFO] Found 7338 recipes in 281.6 ms
+[22:33:02] [INFO] Posted recipe events in 183.4 ms
+[22:33:02] [WARN] Error parsing recipe alexsdelight:barbecue_on_a_stick[minecraft:crafting_shapeless]: {"group":"barbecue_stick","type":"minecraft:crafting_shapeless","ingredients":[{"item":"farmersdelight:tomato"},{"item":"farmersdelight:onion"},{"item":"amfd:singular_cooked_moose_rib"},{"item":"minecraft:cooked_chicken"},{"item":"minecraft:stick"},{"item":"minecraft:stick"}],"result":{"item":"farmersdelight:barbecue_stick","count":2}}: Unknown item 'amfd:singular_cooked_moose_rib'
+[22:33:02] [INFO] Added 9 recipes, removed 18 recipes, modified 0 recipes, with 1 failed recipes in 119.4 ms
+[22:33:19] [INFO] Server resource reload complete!
