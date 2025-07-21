@@ -1190,6 +1190,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
+    "criteria": {
+      "has_feather": "2025-07-21 23:40:55 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/blue_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-07-21 23:13:28 +0000"
@@ -2853,6 +2859,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-07-21 23:40:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_trapdoor": {
     "criteria": {
       "has_planks": "2025-07-21 23:36:46 +0000"
@@ -4395,6 +4407,7 @@
     "criteria": {
       "cooked_mutton": "2025-07-21 22:44:28 +0000",
       "apple": "2025-07-21 22:55:13 +0000",
+      "mutton": "2025-07-21 23:48:11 +0000",
       "bread": "2025-07-21 23:02:03 +0000"
     },
     "done": false

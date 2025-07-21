@@ -7776,3 +7776,308 @@ java.lang.IllegalArgumentException: Cannot get property BooleanProperty{name=ope
 [21Jul2025 23:42:01.325] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
 [21Jul2025 23:42:03.572] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
 [21Jul2025 23:42:05.479] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[21Jul2025 23:42:08.825] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[21Jul2025 23:42:09.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> pq tantas moscas bldo
+[21Jul2025 23:42:16.323] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[21Jul2025 23:42:17.222] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[21Jul2025 23:42:23.974] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[21Jul2025 23:42:34.973] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_visitor_2 but it was marked as removed already
+[21Jul2025 23:42:37.522] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[21Jul2025 23:42:41.623] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[21Jul2025 23:42:43.872] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[21Jul2025 23:42:48.623] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[21Jul2025 23:42:48.624] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[21Jul2025 23:42:49.073] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[21Jul2025 23:42:56.074] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[21Jul2025 23:42:56.472] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[21Jul2025 23:42:56.572] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[21Jul2025 23:42:56.623] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[21Jul2025 23:42:56.674] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[21Jul2025 23:42:58.577] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[21Jul2025 23:43:00.325] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[21Jul2025 23:43:14.724] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[21Jul2025 23:43:14.725] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[21Jul2025 23:43:14.774] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[21Jul2025 23:43:14.824] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[21Jul2025 23:43:14.974] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[21Jul2025 23:43:17.374] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[21Jul2025 23:43:17.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito was slain by The Somnolence
+[21Jul2025 23:43:18.925] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[21Jul2025 23:43:19.474] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[21Jul2025 23:43:19.475] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_visitor but it was marked as removed already
+[21Jul2025 23:43:19.475] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[21Jul2025 23:43:20.073] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[21Jul2025 23:43:20.373] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_visitor but it was marked as removed already
+[21Jul2025 23:43:20.725] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[21Jul2025 23:43:28.481] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jul2025 23:43:28.507] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jul2025 23:43:33.473] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[21Jul2025 23:43:34.173] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[21Jul2025 23:43:35.373] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[21Jul2025 23:43:36.476] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[21Jul2025 23:43:39.873] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[21Jul2025 23:43:41.124] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[21Jul2025 23:43:46.673] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[21Jul2025 23:43:54.023] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[21Jul2025 23:43:54.224] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[21Jul2025 23:43:56.927] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_visitor_2 but it was marked as removed already
+[21Jul2025 23:43:57.874] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[21Jul2025 23:43:57.974] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[21Jul2025 23:43:59.673] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[21Jul2025 23:44:08.623] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[21Jul2025 23:44:08.723] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[21Jul2025 23:44:08.823] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[21Jul2025 23:44:09.623] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[21Jul2025 23:44:09.789] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/25156, l='ServerLevel[world]', x=-3.47, y=132.44, z=440.38], dimensionLocationPath overworld
+[21Jul2025 23:44:09.789] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/25156, l='ServerLevel[world]', x=-3.47, y=132.44, z=440.38] in list []
+[21Jul2025 23:44:20.374] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[21Jul2025 23:44:23.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sanguchito> ptm
+[21Jul2025 23:44:25.474] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[21Jul2025 23:44:26.123] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[21Jul2025 23:44:31.872] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[21Jul2025 23:44:36.623] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[21Jul2025 23:44:38.072] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[21Jul2025 23:44:40.273] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[21Jul2025 23:44:47.124] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[21Jul2025 23:44:47.176] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_visitor_2 but it was marked as removed already
+[21Jul2025 23:44:47.524] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_visitor but it was marked as removed already
+[21Jul2025 23:44:56.225] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[21Jul2025 23:44:57.175] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[21Jul2025 23:44:57.224] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[21Jul2025 23:44:57.323] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[21Jul2025 23:45:02.173] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[21Jul2025 23:45:02.175] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[21Jul2025 23:45:02.223] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[21Jul2025 23:45:02.473] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[21Jul2025 23:45:02.924] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[21Jul2025 23:45:04.472] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[21Jul2025 23:45:04.573] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[21Jul2025 23:45:05.572] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_shadow_stalker but it was marked as removed already
+[21Jul2025 23:45:05.773] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_visitor_2 but it was marked as removed already
+[21Jul2025 23:45:05.923] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[21Jul2025 23:45:33.373] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[21Jul2025 23:45:35.923] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[21Jul2025 23:45:37.673] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[21Jul2025 23:45:37.722] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[21Jul2025 23:45:38.024] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_visitor_2 but it was marked as removed already
+[21Jul2025 23:45:38.175] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[21Jul2025 23:45:38.973] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[21Jul2025 23:45:42.074] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[21Jul2025 23:45:42.826] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_visitor_2 but it was marked as removed already
+[21Jul2025 23:45:52.923] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[21Jul2025 23:45:53.075] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[21Jul2025 23:45:54.122] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[21Jul2025 23:45:54.276] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[21Jul2025 23:45:55.524] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[21Jul2025 23:45:55.573] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[21Jul2025 23:46:03.075] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[21Jul2025 23:46:10.225] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[21Jul2025 23:46:10.875] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[21Jul2025 23:46:12.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sanguchito> recuyperaste?
+[21Jul2025 23:46:13.474] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[21Jul2025 23:46:14.572] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[21Jul2025 23:46:14.623] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[21Jul2025 23:46:18.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> ya casi
+[21Jul2025 23:46:20.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sanguchito> hya q ir juntos xd
+[21Jul2025 23:46:26.686] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Sanguchito'/413, l='ServerLevel[world]', x=-4.31, y=126.00, z=441.42], dimensionLocationPath overworld
+[21Jul2025 23:46:26.686] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Sanguchito'/413, l='ServerLevel[world]', x=-4.31, y=126.00, z=441.42] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@6244]
+[21Jul2025 23:46:32.175] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[21Jul2025 23:46:32.274] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[21Jul2025 23:46:45.473] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[21Jul2025 23:46:45.871] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/25644, l='ServerLevel[world]', x=-4.60, y=117.62, z=441.26], dimensionLocationPath overworld
+[21Jul2025 23:46:45.871] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/25644, l='ServerLevel[world]', x=-4.60, y=117.62, z=441.26] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@6244, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@19d]
+[21Jul2025 23:46:46.371] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/25644, l='ServerLevel[world]', x=-4.50, y=117.37, z=441.13, removed=DISCARDED]
+[21Jul2025 23:46:53.873] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_visitor_2 but it was marked as removed already
+[21Jul2025 23:46:53.973] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[21Jul2025 23:46:57.873] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[21Jul2025 23:47:06.173] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[21Jul2025 23:47:16.273] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[21Jul2025 23:47:19.727] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[21Jul2025 23:47:20.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sanguchito> PQ APARECE ESE ESQUELETO DE MRD
+[21Jul2025 23:47:21.374] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[21Jul2025 23:47:26.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> recupere
+[21Jul2025 23:47:28.471] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/25754, l='ServerLevel[world]', x=-9.56, y=96.52, z=440.52], dimensionLocationPath overworld
+[21Jul2025 23:47:28.471] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/25754, l='ServerLevel[world]', x=-9.56, y=96.52, z=440.52] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@6244, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@19d]
+[21Jul2025 23:47:28.971] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/25754, l='ServerLevel[world]', x=-9.88, y=95.38, z=440.88, removed=DISCARDED]
+[21Jul2025 23:47:29.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> ya void
+[21Jul2025 23:47:46.223] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[21Jul2025 23:47:52.534] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['clqwn'/309, l='ServerLevel[world]', x=27.33, y=102.00, z=438.32], dimensionLocationPath overworld
+[21Jul2025 23:47:52.534] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['clqwn'/309, l='ServerLevel[world]', x=27.33, y=102.00, z=438.32] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@6244, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@19d]
+[21Jul2025 23:48:01.073] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_visitor_2 but it was marked as removed already
+[21Jul2025 23:48:01.223] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[21Jul2025 23:48:03.881] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['clqwn'/309, l='ServerLevel[world]', x=27.98, y=115.00, z=439.66]
+[21Jul2025 23:48:05.382] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['clqwn'/309, l='ServerLevel[world]', x=27.55, y=115.00, z=439.65], dimensionLocationPath overworld
+[21Jul2025 23:48:05.382] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['clqwn'/309, l='ServerLevel[world]', x=27.55, y=115.00, z=439.65] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@6244, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@19d]
+[21Jul2025 23:48:05.983] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['clqwn'/309, l='ServerLevel[world]', x=27.55, y=115.00, z=439.65]
+[21Jul2025 23:48:07.272] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[21Jul2025 23:48:11.436] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['clqwn'/309, l='ServerLevel[world]', x=28.70, y=125.00, z=437.75], dimensionLocationPath overworld
+[21Jul2025 23:48:11.436] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['clqwn'/309, l='ServerLevel[world]', x=28.70, y=125.00, z=437.75] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@6244, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@19d]
+[21Jul2025 23:48:14.424] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[21Jul2025 23:48:14.424] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[21Jul2025 23:48:14.473] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[21Jul2025 23:48:14.723] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[21Jul2025 23:48:14.773] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[21Jul2025 23:48:14.874] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[21Jul2025 23:48:15.024] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[21Jul2025 23:48:15.982] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['clqwn'/309, l='ServerLevel[world]', x=27.31, y=131.00, z=439.36]
+[21Jul2025 23:48:16.521] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/25892, l='ServerLevel[world]', x=-5.68, y=76.20, z=440.69], dimensionLocationPath overworld
+[21Jul2025 23:48:16.521] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/25892, l='ServerLevel[world]', x=-5.68, y=76.20, z=440.69] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@6244, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@19d]
+[21Jul2025 23:48:17.021] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/25892, l='ServerLevel[world]', x=-5.88, y=76.00, z=440.20, removed=DISCARDED]
+[21Jul2025 23:48:18.323] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[21Jul2025 23:48:18.424] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[21Jul2025 23:48:24.974] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[21Jul2025 23:48:26.073] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[21Jul2025 23:48:28.473] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jul2025 23:48:28.497] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jul2025 23:48:33.072] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[21Jul2025 23:48:41.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito was impaled on a stalagmite
+[21Jul2025 23:48:41.621] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ServerPlayer['Sanguchito'/413, l='ServerLevel[world]', x=-6.46, y=51.69, z=440.70]
+[21Jul2025 23:48:41.650] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Sanguchito'/413, l='ServerLevel[world]', x=-6.46, y=51.69, z=440.70]
+[21Jul2025 23:48:42.876] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[21Jul2025 23:48:43.474] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[21Jul2025 23:48:43.578] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[21Jul2025 23:48:43.975] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[21Jul2025 23:48:44.225] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[21Jul2025 23:48:44.322] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[21Jul2025 23:48:44.472] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[21Jul2025 23:48:44.475] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[21Jul2025 23:48:44.973] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[21Jul2025 23:48:45.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sanguchito> sdkñfjljsdfhlasdjflksdf
+[21Jul2025 23:48:45.272] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[21Jul2025 23:48:45.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> ontyasç
+[21Jul2025 23:48:45.673] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[21Jul2025 23:48:47.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> ontas
+[21Jul2025 23:48:49.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> t ayudo
+[21Jul2025 23:48:51.123] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[21Jul2025 23:48:51.174] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[21Jul2025 23:48:51.223] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[21Jul2025 23:48:53.823] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[21Jul2025 23:49:09.023] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_visitor but it was marked as removed already
+[21Jul2025 23:49:09.101] [Server thread/DEBUG] [mixin/]: Mixing CompoundContainerMixin from ftblibrary-common.mixins.json into net.minecraft.world.CompoundContainer
+[21Jul2025 23:49:09.101] [Server thread/DEBUG] [mixin/]: ftblibrary-common.mixins.json:CompoundContainerMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[21Jul2025 23:49:09.786] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/25156, l='ServerLevel[world]', x=-3.13, y=91.13, z=441.88, removed=DISCARDED]
+[21Jul2025 23:49:12.675] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[21Jul2025 23:49:14.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sanguchito> podes poner agua?
+[21Jul2025 23:49:16.624] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[21Jul2025 23:49:17.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> si
+[21Jul2025 23:49:22.573] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[21Jul2025 23:49:22.624] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[21Jul2025 23:49:22.975] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_visitor_2 but it was marked as removed already
+[21Jul2025 23:49:31.375] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[21Jul2025 23:49:39.123] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[21Jul2025 23:49:41.924] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[21Jul2025 23:49:54.823] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[21Jul2025 23:49:55.372] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[21Jul2025 23:49:55.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito was shot by Skeleton
+[21Jul2025 23:49:56.673] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[21Jul2025 23:49:56.926] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[21Jul2025 23:49:57.173] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[21Jul2025 23:49:57.175] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[21Jul2025 23:49:57.974] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[21Jul2025 23:49:58.075] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[21Jul2025 23:49:58.524] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[21Jul2025 23:49:58.526] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[21Jul2025 23:49:58.875] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[21Jul2025 23:49:59.273] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[21Jul2025 23:50:14.723] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[21Jul2025 23:50:15.673] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[21Jul2025 23:50:18.823] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[21Jul2025 23:50:19.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> hola
+[21Jul2025 23:50:21.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> dime a donde ir
+[21Jul2025 23:50:28.822] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[21Jul2025 23:50:34.672] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[21Jul2025 23:50:34.923] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[21Jul2025 23:50:34.973] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[21Jul2025 23:50:35.074] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[21Jul2025 23:50:35.473] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[21Jul2025 23:50:35.972] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[21Jul2025 23:50:36.026] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[21Jul2025 23:50:36.972] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[21Jul2025 23:50:37.273] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[21Jul2025 23:50:41.122] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[21Jul2025 23:50:41.272] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[21Jul2025 23:50:41.522] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[21Jul2025 23:50:42.274] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[21Jul2025 23:50:45.233] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/26758, l='ServerLevel[world]', x=-3.85, y=118.34, z=441.88], dimensionLocationPath overworld
+[21Jul2025 23:50:45.233] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/26758, l='ServerLevel[world]', x=-3.85, y=118.34, z=441.88] in list []
+[21Jul2025 23:50:46.104] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: clqwn moved too quickly! 0.6069377018426896,-10.984463397405676,0.0
+[21Jul2025 23:50:49.426] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[21Jul2025 23:50:50.784] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ItemEntity['Torch'/26758, l='ServerLevel[world]', x=-3.09, y=94.00, z=441.88]
+[21Jul2025 23:50:52.622] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[21Jul2025 23:50:53.585] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Sanguchito'/413, l='ServerLevel[world]', x=-3.77, y=94.97, z=442.82], dimensionLocationPath overworld
+[21Jul2025 23:50:53.586] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Sanguchito'/413, l='ServerLevel[world]', x=-3.77, y=94.97, z=442.82] in list []
+[21Jul2025 23:50:55.073] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[21Jul2025 23:50:56.473] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[21Jul2025 23:50:56.623] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[21Jul2025 23:50:57.422] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[21Jul2025 23:51:01.036] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Sanguchito'/413, l='ServerLevel[world]', x=-3.78, y=89.45, z=446.96]
+[21Jul2025 23:51:01.085] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Sanguchito'/413, l='ServerLevel[world]', x=-3.83, y=89.41, z=446.85], dimensionLocationPath overworld
+[21Jul2025 23:51:01.085] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Sanguchito'/413, l='ServerLevel[world]', x=-3.83, y=89.41, z=446.85] in list []
+[21Jul2025 23:51:03.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito was blown up by The Lechery
+[21Jul2025 23:51:03.736] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Sanguchito'/413, l='ServerLevel[world]', x=-3.30, y=93.09, z=444.28]
+[21Jul2025 23:51:05.975] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[21Jul2025 23:51:06.027] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[21Jul2025 23:51:06.075] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[21Jul2025 23:51:06.125] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[21Jul2025 23:51:06.175] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[21Jul2025 23:51:06.524] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[21Jul2025 23:51:06.973] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[21Jul2025 23:51:07.473] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[21Jul2025 23:51:07.575] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[21Jul2025 23:51:07.872] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[21Jul2025 23:51:09.272] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[21Jul2025 23:51:10.023] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[21Jul2025 23:51:11.135] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/26907, l='ServerLevel[world]', x=9.63, y=38.70, z=453.65], dimensionLocationPath overworld
+[21Jul2025 23:51:11.135] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/26907, l='ServerLevel[world]', x=9.63, y=38.70, z=453.65] in list []
+[21Jul2025 23:51:11.534] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ItemEntity['Torch'/26907, l='ServerLevel[world]', x=9.56, y=38.44, z=453.88]
+[21Jul2025 23:51:11.985] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/26907, l='ServerLevel[world]', x=10.21, y=38.01, z=453.18], dimensionLocationPath overworld
+[21Jul2025 23:51:11.985] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/26907, l='ServerLevel[world]', x=10.21, y=38.01, z=453.18] in list []
+[21Jul2025 23:51:12.432] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ItemEntity['Torch'/26907, l='ServerLevel[world]', x=10.53, y=37.76, z=452.85]
+[21Jul2025 23:51:13.235] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/26907, l='ServerLevel[world]', x=11.15, y=37.03, z=450.75], dimensionLocationPath overworld
+[21Jul2025 23:51:13.235] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/26907, l='ServerLevel[world]', x=11.15, y=37.03, z=450.75] in list []
+[21Jul2025 23:51:13.436] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ItemEntity['Torch'/26907, l='ServerLevel[world]', x=11.43, y=36.65, z=449.80]
+[21Jul2025 23:51:13.885] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/26907, l='ServerLevel[world]', x=12.48, y=36.01, z=447.72], dimensionLocationPath overworld
+[21Jul2025 23:51:13.885] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/26907, l='ServerLevel[world]', x=12.48, y=36.01, z=447.72] in list []
+[21Jul2025 23:51:20.134] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/26916, l='ServerLevel[world]', x=-7.34, y=5.82, z=453.58], dimensionLocationPath overworld
+[21Jul2025 23:51:20.134] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/26916, l='ServerLevel[world]', x=-7.34, y=5.82, z=453.58] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@691b]
+[21Jul2025 23:51:20.631] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ItemEntity['Torch'/26916, l='ServerLevel[world]', x=-6.76, y=5.47, z=453.44]
+[21Jul2025 23:51:21.481] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/26916, l='ServerLevel[world]', x=-3.72, y=4.03, z=452.71], dimensionLocationPath overworld
+[21Jul2025 23:51:21.481] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/26916, l='ServerLevel[world]', x=-3.72, y=4.03, z=452.71] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@691b]
+[21Jul2025 23:51:21.532] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ItemEntity['Torch'/26916, l='ServerLevel[world]', x=-3.44, y=4.03, z=452.57]
+[21Jul2025 23:51:21.684] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/26916, l='ServerLevel[world]', x=-2.62, y=4.05, z=452.03], dimensionLocationPath overworld
+[21Jul2025 23:51:21.684] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/26916, l='ServerLevel[world]', x=-2.62, y=4.05, z=452.03] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@691b]
+[21Jul2025 23:51:36.285] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/26932, l='ServerLevel[world]', x=-5.42, y=78.57, z=440.83], dimensionLocationPath overworld
+[21Jul2025 23:51:36.285] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/26932, l='ServerLevel[world]', x=-5.42, y=78.57, z=440.83] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@691b, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@6924]
+[21Jul2025 23:51:36.482] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ItemEntity['Torch'/26932, l='ServerLevel[world]', x=-5.13, y=78.52, z=440.88]
+[21Jul2025 23:51:37.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> creo q te puse agua
+[21Jul2025 23:51:38.082] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/26932, l='ServerLevel[world]', x=-5.13, y=68.68, z=440.88], dimensionLocationPath overworld
+[21Jul2025 23:51:38.082] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/26932, l='ServerLevel[world]', x=-5.13, y=68.68, z=440.88] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@691b, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@6924]
+[21Jul2025 23:51:38.686] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ItemEntity['Torch'/26932, l='ServerLevel[world]', x=-5.13, y=66.00, z=440.88]
+[21Jul2025 23:51:41.972] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[21Jul2025 23:51:43.024] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[21Jul2025 23:51:43.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito fell from a high place
+[21Jul2025 23:51:43.075] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[21Jul2025 23:51:43.088] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Sanguchito'/413, l='ServerLevel[world]', x=-3.30, y=91.13, z=441.70]
+[21Jul2025 23:51:43.134] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/26932, l='ServerLevel[world]', x=-5.13, y=66.02, z=438.73], dimensionLocationPath overworld
+[21Jul2025 23:51:43.134] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/26932, l='ServerLevel[world]', x=-5.13, y=66.02, z=438.73] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@691b, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@6924]
+[21Jul2025 23:51:43.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> son tan genio que no traje antorchas
+[21Jul2025 23:51:43.335] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ItemEntity['Torch'/26932, l='ServerLevel[world]', x=-5.13, y=65.64, z=438.13]
+[21Jul2025 23:51:45.488] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/26954, l='ServerLevel[world]', x=-7.44, y=44.86, z=437.08], dimensionLocationPath overworld
+[21Jul2025 23:51:45.488] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/26954, l='ServerLevel[world]', x=-7.44, y=44.86, z=437.08] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@691b, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@6924]
+[21Jul2025 23:51:46.173] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[21Jul2025 23:51:47.573] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[21Jul2025 23:51:48.276] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[21Jul2025 23:51:48.388] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/26932, l='ServerLevel[world]', x=-8.21, y=61.04, z=439.07], dimensionLocationPath overworld
+[21Jul2025 23:51:48.388] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/26932, l='ServerLevel[world]', x=-8.21, y=61.04, z=439.07] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@691b, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@6924, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@694a]
+[21Jul2025 23:51:58.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> ahora si puse
+[21Jul2025 23:52:00.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <clqwn> sin falta
+[21Jul2025 23:52:08.925] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[21Jul2025 23:52:09.024] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[21Jul2025 23:52:09.174] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[21Jul2025 23:52:10.774] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[21Jul2025 23:52:10.874] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[21Jul2025 23:52:10.925] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[21Jul2025 23:52:11.073] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[21Jul2025 23:52:12.674] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[21Jul2025 23:52:12.724] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[21Jul2025 23:52:14.724] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
