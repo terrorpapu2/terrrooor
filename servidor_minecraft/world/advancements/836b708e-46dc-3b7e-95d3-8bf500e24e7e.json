@@ -1320,6 +1320,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/crimson_mosquito_larva": {
+    "criteria": {
+      "rat_upgrade_basic": "2025-07-21 23:57:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-07-21 23:00:19 +0000"
@@ -2521,6 +2527,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-07-21 23:57:49 +0000"
+    },
+    "done": true
+  },
   "weeping_angels:recipes/tools/chisel": {
     "criteria": {
       "has_stone": "2025-07-21 22:36:13 +0000"
@@ -2542,6 +2554,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2025-07-21 23:00:19 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/root": {
+    "criteria": {
+      "grave_03": "2025-07-21 23:57:21 +0000"
     },
     "done": true
   },
@@ -2710,6 +2728,12 @@
   "comforts:sleeping_bag_black": {
     "criteria": {
       "has_black_wool": "2025-07-21 22:37:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-07-21 23:57:49 +0000"
     },
     "done": true
   },
@@ -3583,6 +3607,12 @@
     },
     "done": true
   },
+  "man:feelingwatched": {
+    "criteria": {
+      "feelingwatched_0": "2025-07-21 23:53:42 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cherry_lattice_fence_gate": {
     "criteria": {
       "has_stick": "2025-07-21 22:35:39 +0000"
@@ -3592,6 +3622,12 @@
   "weeping_angels:recipes/decorations/statue": {
     "criteria": {
       "has_stone": "2025-07-21 23:39:17 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/acacia_blossom": {
+    "criteria": {
+      "acacia_blossom": "2025-07-21 23:57:29 +0000"
     },
     "done": true
   },
@@ -3682,6 +3718,12 @@
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
       "has_pointed_dripstone": "2025-07-21 23:07:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-07-21 23:57:49 +0000"
     },
     "done": true
   },
