@@ -1,0 +1,744 @@
+{
+	autofocus_id: "4C931B986EBA36B9"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "chapter_6"
+	group: ""
+	icon: { Count: 6, id: "minecraft:purple_concrete_powder" }
+	id: "18120D0A04B553D1"
+	order_index: 5
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["5EB02D7003590C4F"]
+			hide_until_deps_complete: true
+			id: "64E1E60DC56E0B46"
+			rewards: [
+				{
+					icon: "minecraft:ender_chest"
+					id: "4231273E3BCA7813"
+					table_id: 1384616004492253711L
+					title: "&bRandom Reward"
+					type: "random"
+				}
+				{
+					id: "53EA366A358EE702"
+					type: "xp"
+					xp: 10
+				}
+			]
+			subtitle: "You’ve survived the Crawling Castle — barely. But the world is no longer the same. The sky bleeds colors you can’t name, and in the corners of your shelter, shadows bend the wrong way when you’re not watching. Something new stalks the land: statues that shouldn’t move, but do. You craft the Temporal Distortion Scanner — the Timey Wimey Detector — its arcane gears ticking faster whenever They are near. Weeping Angels. Creatures frozen by your gaze, yet always inches closer when you turn away."
+			tasks: [{
+				consume_items: false
+				id: "15EB67190F22F15C"
+				item: "weeping_angels:timey_wimey_detector"
+				title: "Objective: &aCraft a Timey Wimey Detector"
+				type: "item"
+			}]
+			title: "&aTemporal Distortion Scanner"
+			x: -0.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["64E1E60DC56E0B46"]
+			description: ["You can craft rabbit hide from leather!"]
+			hide_until_deps_complete: true
+			id: "06FDC25976033375"
+			rewards: [{
+				exclude_from_claim_all: true
+				icon: "minecraft:ender_chest"
+				id: "011B81293ABE5702"
+				table_id: 8108442881734338571L
+				title: "&9Choice Reward"
+				type: "choice"
+			}]
+			subtitle: "To stay alive, you prepare: a Sophisticated Backpack to carry relics you find in the ruins, and an Upgrade Base to expand it."
+			tasks: [{
+				consume_items: false
+				id: "0EA2183D9E432786"
+				item: "sophisticatedbackpacks:backpack"
+				title: "Objective: &aCraft a Sophisticated Backpack"
+				type: "item"
+			}]
+			title: "&aPack for the Unseen"
+			x: -0.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["06FDC25976033375"]
+			hide_until_deps_complete: true
+			id: "5EC60D1C4E4A3D55"
+			rewards: [{
+				id: "5314FE6D56C929B3"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			subtitle: "You reinforce your shelter, filling it with remnants of something older — cursed ornaments from your own world."
+			tasks: [{
+				consume_items: false
+				id: "59D591EDB38ECC14"
+				item: "sophisticatedbackpacks:upgrade_base"
+				title: "Objective: &aCraft an Upgrade Base"
+				type: "item"
+			}]
+			title: "&aFramework of Expansion"
+			x: 1.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["06FDC25976033375"]
+			hide_until_deps_complete: true
+			id: "33071C46240D94C8"
+			rewards: [
+				{
+					count: 2
+					id: "5D2EDC0394CD8A57"
+					item: "arphex:abyssal_shard"
+					type: "item"
+				}
+				{
+					id: "2F9F1F45B2758F7F"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			subtitle: "The walls grow tighter as the shadows creep in. You know the monsters hiding in the crawlspaces won’t fear candles or crosses — they only fear fire. In desperation, you craft the Formic Fireblaster, piecing it together from scorched metal and strange insect parts scavenged deep in the Hive tunnels. Its barrel hums with an unnatural heat, like something alive is trapped inside, whispering to be set free. You grip the trigger and feel a faint vibration in your palm — a promise that if the darkness breaks through your barricades, you’ll scorch it to ash… or die trying."
+			tasks: [{
+				consume_items: false
+				id: "524B75E7476EE2FA"
+				item: "arphex:formic_fireblaster"
+				title: "Objective: &6Craft a Formic Fireblaster"
+				type: "item"
+			}]
+			title: "&6Formic Incinerator"
+			x: -0.5d
+			y: -8.5d
+		}
+		{
+			dependencies: ["06FDC25976033375"]
+			hide_until_deps_complete: true
+			id: "26F5100F558D3CFF"
+			rewards: [{
+				id: "1F4A84E7777CD43F"
+				item: "minecraft:diamond"
+				type: "item"
+			}]
+			subtitle: "You try to convince yourself these new trinkets are harmless — just old scraps and rotten wood — but they reek of something else. Something wrong. You craft the Haunted Pumpkin, its grin flickering by candlelight long after you’ve blown the candle out. Sometimes, when you pass by at night, the grin seems wider."
+			tasks: [{
+				consume_items: false
+				id: "486FF94D283FC454"
+				item: "creepydecorations:haunted_pumpkin"
+				title: "Objective: &aCraft a Haunted Pumpkin"
+				type: "item"
+			}]
+			title: "&aCurse of the Harvest"
+			x: -2.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["26F5100F558D3CFF"]
+			hide_until_deps_complete: true
+			id: "66E20929C4960C1E"
+			rewards: [{
+				id: "7B3B9BCC9C0E1B72"
+				item: "minecraft:diamond"
+				type: "item"
+			}]
+			subtitle: "The Broken Doll sits limply in the corner of your room. Its cracked porcelain face watches you when you sleep — or maybe you only dream that it does. You hear faint giggling sometimes, just outside your door, but when you open it, there’s only silence."
+			tasks: [{
+				consume_items: false
+				id: "3BD30E47221B35A7"
+				item: "creepydecorations:broken_doll"
+				title: "Objective: &aCraft a Broken Doll"
+				type: "item"
+			}]
+			title: "&aBroken Eyes, Silent Cries"
+			x: -3.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["66E20929C4960C1E"]
+			hide_until_deps_complete: true
+			id: "3025C2DFCCACBF15"
+			rewards: [{
+				id: "36FE155B41ABEB7E"
+				item: "minecraft:diamond"
+				type: "item"
+			}]
+			subtitle: "You carve a Mossy Gravestone next, planting it in the damp earth by your shelter. A marker for no one — or maybe for you, when this is all done. Rain runs down its surface like tears you refuse to shed."
+			tasks: [{
+				consume_items: false
+				id: "7FCC69766C713155"
+				item: "creepydecorations:mossy_gravestone"
+				title: "Objective: &aCraft a Mossy Gravestone"
+				type: "item"
+			}]
+			title: "&aMoss-Covered Memory"
+			x: -3.5d
+			y: -9.0d
+		}
+		{
+			dependencies: ["3025C2DFCCACBF15"]
+			hide_until_deps_complete: true
+			id: "39FC1A37F1FDFA3F"
+			rewards: [{
+				id: "1A6BBF46D8BD804E"
+				item: "minecraft:diamond"
+				type: "item"
+			}]
+			subtitle: "An Old Wooden Cross, splintered and crooked, stands nailed to a tree nearby. You tell yourself it’s just decoration, but birds won’t land near it and shadows coil strangely when the wind blows."
+			tasks: [{
+				consume_items: false
+				id: "34325101F9D3BF17"
+				item: "creepydecorations:wooden_cross"
+				title: "Objective: &aCraft an Old Wooden Cross"
+				type: "item"
+			}]
+			title: "&aForgotten Cross"
+			x: -3.5d
+			y: -10.5d
+		}
+		{
+			dependencies: ["39FC1A37F1FDFA3F"]
+			hide_until_deps_complete: true
+			id: "54EAE97F4097DDC3"
+			rewards: [{
+				id: "78867CB1D8285396"
+				item: "minecraft:diamond"
+				type: "item"
+			}]
+			subtitle: "The Leg Shackle lies cold and heavy in your hands — a relic of captivity. You bolt it to the floor near your bed, telling yourself it’s just to scare intruders. But some nights, you dream of feeling it lock shut around your ankle while you lie helpless in the dark."
+			tasks: [{
+				consume_items: false
+				id: "769A1AF4FA31E84D"
+				item: "creepydecorations:leg_shackle"
+				title: "Objective: &aCraft a Leg Shackle"
+				type: "item"
+			}]
+			title: "&aShackles of the Lost"
+			x: -3.5d
+			y: -12.0d
+		}
+		{
+			dependencies: ["54EAE97F4097DDC3"]
+			hide_until_deps_complete: true
+			id: "7E567E06BF10528B"
+			rewards: [{
+				count: 5
+				id: "52A34F1C57E5791D"
+				item: "minecraft:diamond"
+				type: "item"
+			}]
+			subtitle: "And then there’s the Emerging Hand. You build it, half as a joke, half as a warning. A pale, grasping hand that pushes up through cracked stone like something clawing free from the underworld. Sometimes, when the wind howls through your shelter at night, you could swear you hear fingernails scratching under the floorboards. These aren’t just decorations. They’re omens. And you made them with your own hands."
+			tasks: [{
+				consume_items: false
+				id: "776058D7198FA791"
+				item: "creepydecorations:emerging_hand"
+				title: "Objective: &aCraft an Emerging Hand"
+				type: "item"
+			}]
+			title: "&aHand from Below"
+			x: -3.5d
+			y: -13.5d
+		}
+		{
+			dependencies: ["5D44343030804C8D"]
+			description: [
+				"Scorpioid Bloodluster can spawn in the nether if you warded off the Spider Moth 2+ times."
+				"In needs to be Raining or a Thunderstorm in order for Bloodluster to spawn (even if he spawns in the Nether!)"
+				""
+				"Additionaly you can summon him by placing a soul sand block on top of a mangled scorpion flesh block, then lighting it on fire."
+				"{image:cavehorrorproject:textures/scorpioid_bloodluster.png width:100 height:100 align:center}"
+			]
+			hide_until_deps_complete: true
+			id: "4FF693F23D445507"
+			rewards: [
+				{
+					count: 2
+					id: "7775CD1168A90A5D"
+					item: "minecraft:enchanted_golden_apple"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					icon: "minecraft:ender_chest"
+					id: "4D8D6C1C50D4EC28"
+					table_id: 3229567124906618931L
+					title: "&9Choice Reward"
+					type: "choice"
+				}
+			]
+			subtitle: "Your next step drags you deeper — to the Nether’s searing veins — where the Scorpioid Bloodluster coils in the heat. Bigger than any beast you’ve faced so far, its tail snaps like a whip of molten bone. The fight feels endless — tail strikes rain down sparks, your armor scorches and cracks."
+			tasks: [{
+				entity: "arphex:scorpioid_bloodluster"
+				icon: "arphex:scorpioid_bloodluster_spawn_egg"
+				id: "086640770307F2A1"
+				title: "Objective: &4Kill the Scorpioid Bloodluster"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&4Scorpioid Bloodlust"
+			x: -0.5d
+			y: -12.5d
+		}
+		{
+			dependencies: ["5EC60D1C4E4A3D55"]
+			hide_until_deps_complete: true
+			id: "02227B88FF1D79EC"
+			rewards: [{
+				icon: "minecraft:ender_chest"
+				id: "3ECF812CEFDB1F2B"
+				table_id: 3172504193309197598L
+				title: "&bRandom Reward"
+				type: "random"
+			}]
+			subtitle: "It’s not enough to just survive anymore. You need something unholy — so you forge the Abyssal Axe, hammering that Infernal Ingot into a blade that thirsts for blood and broken stone. The metal sings as you swing it — promises you power if you’ll just swing it again and again. In the stillness of your camp, the Axe rests by your bedroll, humming in the dark. The shadows feel closer than ever. You wonder: Is this your salvation? Or the final piece of your damnation?"
+			tasks: [{
+				consume_items: false
+				id: "325B3A5E78BE50B8"
+				item: "arphex:abyssal_axe"
+				title: "Objective: &6Craft an Abyssal Axe"
+				type: "item"
+			}]
+			title: "&6Abyssal Edge"
+			x: 2.5d
+			y: -9.0d
+		}
+		{
+			dependencies: ["4FF693F23D445507"]
+			description: [
+				"Fire Opal Shards can be obtained by killing Spider Prowlers."
+				""
+				"Fire Opals can be obtained either by combining 4 Fire Opal Shards or by killing the Scorpioid Bloodluster."
+			]
+			hide_until_deps_complete: true
+			id: "52CD25E506B94C1D"
+			rewards: [
+				{
+					id: "2B280E91548CAEE9"
+					type: "xp"
+					xp: 45
+				}
+				{
+					id: "666C337063B4017B"
+					item: "arphex:abyssal_crystal"
+					type: "item"
+				}
+			]
+			subtitle: "But when it falls, it drops the Fire Opal Shards you need — gemstones warm as embers, humming in your palm like tiny, angry hearts."
+			tasks: [
+				{
+					consume_items: false
+					count: 4L
+					id: "1DF20136675C109B"
+					item: "arphex:fire_opal_shard"
+					title: "Objective: &6Obtain 4x Fire Opal Shards"
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "51611C9ADC1847F4"
+					item: "arphex:fire_opal"
+					title: "Objective: &6Obtain 1x Fire Opal"
+					type: "item"
+				}
+			]
+			title: "&6Emberheart Shards"
+			x: -0.5d
+			y: -14.5d
+		}
+		{
+			dependencies: ["33071C46240D94C8"]
+			description: [
+				"Can be found in Jungles and Lush Caves."
+				"{image:cavehorrorproject:textures/spider_prowler.png width:100 height:100 align:center}"
+			]
+			hide_until_deps_complete: true
+			id: "5D44343030804C8D"
+			rewards: [
+				{
+					id: "70B13247B0D915A7"
+					item: "arphex:bane_of_the_darkness"
+					type: "item"
+				}
+				{
+					id: "69D0F0BF5B4C9C00"
+					item: "minecraft:netherite_scrap"
+					type: "item"
+				}
+			]
+			subtitle: "You’ve hunted monsters, cracked the earth for secrets, and set your home crawling with eyes — yet somehow you still feel unprepared. The jungle trembles with life, and the caves below hum with hunger that knows your scent. You load your pack with everything you can carry and slip into the jungles’ choking green shadows. There, among dripping vines and roots as thick as bones, you hunt down the Spider Prowler. Its legs twitch through the underbrush, its fangs drip a venom so bright it almost glows. When you finally drive your blade through its chitin, it lets out a screech that echoes through the canopy — like the forest itself is warning everything else that you are here now."
+			tasks: [{
+				entity: "arphex:spider_prowler"
+				icon: "arphex:spider_prowler_spawn_egg"
+				id: "7EF5F7F793871CB1"
+				title: "Objective: &cKill a Spider Prowler"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&cHunter of the Veins"
+			x: -0.5d
+			y: -10.5d
+		}
+		{
+			dependencies: ["52CD25E506B94C1D"]
+			hide_until_deps_complete: true
+			id: "64581CEF15A033C6"
+			rewards: [
+				{
+					id: "2100E4A16F218FD3"
+					item: "arphex:fire_opal_shard"
+					type: "item"
+				}
+				{
+					icon: "minecraft:ender_chest"
+					id: "3476BF935D58D27D"
+					table_id: 1384616004492253711L
+					title: "&bRandom Reward"
+					type: "random"
+				}
+			]
+			subtitle: "You gather more shards from what remains of the Spider Prowler, then carefully fuse them into an Infernal Shard — a core of raw flame, so hot it pulses with its own life. Holding it too long leaves your palms blistered, your breath tasting like ash."
+			tasks: [{
+				consume_items: false
+				id: "692DECC45C05AFDE"
+				item: "arphex:infernal_shard"
+				title: "Objective: &6Craft an Infernal Shard"
+				type: "item"
+			}]
+			title: "&6Infernal Core"
+			x: -0.5d
+			y: -16.5d
+		}
+		{
+			dependencies: [
+				"64581CEF15A033C6"
+				"02912B9BF5167221"
+			]
+			hide_until_deps_complete: true
+			id: "191D94530C45457E"
+			rewards: [
+				{
+					id: "3DE8230AED865293"
+					item: {
+						Count: 1
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:fortune"
+								lvl: 3s
+							}]
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "578DC194407EA47F"
+					item: {
+						Count: 1
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:protection"
+								lvl: 4s
+							}]
+						}
+					}
+					type: "item"
+				}
+			]
+			subtitle: "You can’t stop. You press deeper into forbidden knowledge — feeding the Infernal Shard to your furnace until it cooks into something purer, crueler: an Infernal Ingot. Its glow never fades, even in pitch darkness — a shard of hell in your hands."
+			tasks: [{
+				consume_items: false
+				id: "0B71B7640FACC073"
+				item: "arphex:infernal_ingot"
+				title: "Objective: &6Obtain an Infernal Ingot"
+				type: "item"
+			}]
+			title: "&6Smoldering Essence"
+			x: -0.5d
+			y: -18.5d
+		}
+		{
+			dependencies: [
+				"02227B88FF1D79EC"
+				"191D94530C45457E"
+			]
+			description: ["{image:cavehorrorproject:textures/infernal_boots.png width:200 height:100 align:center}"]
+			hide_until_deps_complete: true
+			id: "210A332608B46C09"
+			rewards: [
+				{
+					count: 2
+					id: "1C6715C7EDDD29A3"
+					item: "minecraft:diamond"
+					type: "item"
+				}
+				{
+					id: "31DBDB89B5179D0F"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			subtitle: "First, you shape the Infernal Boots. They clink dully on the stone floor, but when you slide them on, you feel the faintest heat under your soles — not burning, but coursing through your veins like a spark that says run faster, stand taller, push deeper. With each step, you feel less like prey and more like the hunter you have to become."
+			tasks: [{
+				consume_items: false
+				id: "71C1DEFECA910CA0"
+				item: {
+					Count: 1
+					id: "arphex:infernal_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				title: "Objective: &cCraft Infernal Boots"
+				type: "item"
+			}]
+			title: "&cInfernal Stride"
+			x: 2.5d
+			y: -11.5d
+		}
+		{
+			dependencies: ["210A332608B46C09"]
+			description: ["{image:cavehorrorproject:textures/infernal_leggings.png width:200 height:100 align:center}"]
+			hide_until_deps_complete: true
+			id: "0E9136E1EBE5827B"
+			rewards: [
+				{
+					count: 2
+					id: "341819E1AD25D6AD"
+					item: "minecraft:diamond"
+					type: "item"
+				}
+				{
+					id: "0E098623D214095A"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			subtitle: "Next comes the Infernal Leggings — plates of dark metal that shimmer with an unnatural sheen. As you fasten them in place, you feel your muscles tighten, your breath come easier even in the stale cave air. They radiate heat like a hearth, but their warmth isn’t comfort — it’s an armor of fire, warding off the creeping cold that tries to burrow into your bones at night."
+			tasks: [{
+				consume_items: false
+				id: "35F3306D750777A4"
+				item: {
+					Count: 1
+					id: "arphex:infernal_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				title: "Objective: &cCraft Infernal Leggings"
+				type: "item"
+			}]
+			title: "&cInfernal Blinding"
+			x: 2.5d
+			y: -13.5d
+		}
+		{
+			dependencies: ["0E9136E1EBE5827B"]
+			description: ["{image:cavehorrorproject:textures/infernal_chestplate.png width:200 height:100 align:center}"]
+			hide_until_deps_complete: true
+			id: "4016314CC0B9789F"
+			rewards: [
+				{
+					count: 2
+					id: "4C57373BF248B9CA"
+					item: "minecraft:diamond"
+					type: "item"
+				}
+				{
+					id: "65AF331DCA0F26BA"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			subtitle: "The forge roars hotter when you lift the final ingots for the Infernal Chestplate. Sparks spit and dance like embers escaping from hell’s own gate. As you hammer it together, you feel it whisper its purpose: Strength. Endurance. Immunity to lesser pain. When you pull it over your shoulders, its weight feels less like metal and more like the crushing promise that you will outlast whatever hunts you now."
+			tasks: [{
+				consume_items: false
+				id: "6BD6EEA0493F2184"
+				item: {
+					Count: 1
+					id: "arphex:infernal_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				title: "Objective: &cCraft Infernal Chestplate"
+				type: "item"
+			}]
+			title: "&cInfernal Carapace"
+			x: 2.5d
+			y: -15.5d
+		}
+		{
+			dependencies: ["4016314CC0B9789F"]
+			description: ["{image:cavehorrorproject:textures/infernal_helmet.png width:200 height:100 align:center}"]
+			hide_until_deps_complete: true
+			id: "15C631AC97529CDD"
+			rewards: [
+				{
+					id: "497B60AFF3069593"
+					item: "minecraft:diamond_block"
+					type: "item"
+				}
+				{
+					id: "55F814B7016CC034"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			subtitle: "Finally, you craft the Infernal Helmet, the crown to your growing armor of flame and shadow. As you set it atop your head, the world around you shifts — your vision sharper, your lungs filling with a heat that burns away fear. It seals you inside your own war machine, a walking pyre of rage and survival."
+			tasks: [{
+				consume_items: false
+				id: "24474B6924C490BA"
+				item: {
+					Count: 1
+					id: "arphex:infernal_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				title: "Objective: &cCraft Infernal Helmet"
+				type: "item"
+			}]
+			title: "&cInfernal Crown"
+			x: 2.5d
+			y: -17.5d
+		}
+		{
+			dependencies: ["17A6A08637737F74"]
+			hide_until_deps_complete: true
+			id: "02912B9BF5167221"
+			rewards: [
+				{
+					id: "4DB9DD8E77BA0B36"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+				{
+					count: 6
+					id: "7441E6FCFE600CBA"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+			]
+			subtitle: "When you dare to peek through your Binoculars, you see distant shapes moving. Not animals. Not people."
+			tasks: [{
+				consume_items: false
+				id: "2415AC97B21C352F"
+				item: "binocularsmod:binoculars"
+				title: "Objective: &aCraft Binoculars"
+				type: "item"
+			}]
+			title: "&aEyes of Distant Shadows"
+			x: -3.5d
+			y: -17.5d
+		}
+		{
+			dependencies: ["7E567E06BF10528B"]
+			hide_until_deps_complete: true
+			id: "17A6A08637737F74"
+			rewards: [{
+				id: "542064EEF3C10575"
+				type: "xp"
+				xp: 25
+			}]
+			subtitle: "You stand at your door — an old Corrugated Door — listening to the scratching behind it."
+			tasks: [{
+				consume_items: false
+				id: "5761D6DF7DAE8B3C"
+				item: "dustydecorations:corrugated_metal_door"
+				title: "Objective: &aCraft a Corrugated Door"
+				type: "item"
+			}]
+			title: "&aRust and Rattle"
+			x: -3.5d
+			y: -15.5d
+		}
+		{
+			dependencies: [
+				"15C631AC97529CDD"
+				"191D94530C45457E"
+			]
+			description: ["{image:cavehorrorproject:textures/knocker.png width:100 height:100 align:center}"]
+			hide_until_deps_complete: true
+			id: "768D89E363B5B5BD"
+			rewards: [{
+				icon: "minecraft:ender_chest"
+				id: "620A355A4289C259"
+				table_id: 1384616004492253711L
+				title: "&bRandom Reward"
+				type: "random"
+			}]
+			subtitle: "But the deeper truth is never still. The Detector hums. The walls creak. And somewhere in the dark, you hear the rhythmic tapping of the Knocker — a thing that shouldn’t exist but now does."
+			tasks: [{
+				id: "27E70CC491650175"
+				observe_type: 5
+				timer: 0L
+				title: "Objective: &cObserve the Knocker from up-close"
+				to_observe: "the_knocker:knocker"
+				type: "observation"
+			}]
+			title: "&cFace the Knocker"
+			x: -0.5d
+			y: -20.5d
+		}
+		{
+			dependencies: ["5D500DA6BB980544"]
+			hide_until_deps_complete: true
+			icon: { Count: 6, id: "minecraft:purple_concrete_powder" }
+			id: "5EB02D7003590C4F"
+			rewards: [{
+				auto: "enabled"
+				description: ""
+				icon: { Count: 6, id: "minecraft:purple_concrete_powder" }
+				id: "5FFFD75BF86AFAA3"
+				title: "&5Welcome to Chapter 6!"
+				type: "toast"
+			}]
+			shape: "rsquare"
+			size: 1.5d
+			subtitle: "The closer you get to the source of the nightmare, the more reality unravels. Shadows are no longer shadows, walls whisper, and monsters you thought were only stories step through cracks in time. You have tools. You have weapons. But the darkness is evolving too."
+			tasks: [{
+				icon: { Count: 6, id: "minecraft:purple_concrete_powder" }
+				id: "131083E59FB2105B"
+				stat: "minecraft:play_time"
+				title: "&5Chapter 6 is now unlocked!"
+				type: "stat"
+				value: 1
+			}]
+			title: "&5Welcome to Chapter 6 of Cave Horror Project!"
+			x: -0.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["768D89E363B5B5BD"]
+			hide_until_deps_complete: true
+			id: "4237946A88375B66"
+			rewards: [{
+				auto: "enabled"
+				description: ""
+				icon: { Count: 7, id: "minecraft:blue_concrete_powder" }
+				id: "5B2A8D836BB36E4D"
+				title: "&9You can now start with Chapter 7 quests!"
+				type: "toast"
+			}]
+			shape: "rsquare"
+			size: 1.5d
+			subtitle: "You step forward to see it for yourself. You have to know. But you wish you didn’t. Fully clad, you stand by the dying forge. You flex your hands. You listen to the wind beyond your barricades. For the first time, you wonder if you are becoming the nightmare. And maybe that’s the only way to survive what comes next."
+			tasks: [{
+				icon: { Count: 7, id: "minecraft:blue_concrete_powder" }
+				id: "10CDC797294AF357"
+				stat: "minecraft:play_time"
+				title: "&9Chapter 7 is now available!"
+				type: "stat"
+				value: 1
+			}]
+			title: "&9Chapter 7 is now available!"
+			x: -0.5d
+			y: -23.0d
+		}
+	]
+	subtitle: ["&5CHAPTER 6"]
+	title: "&5Echoes of Infernal Truth"
+}

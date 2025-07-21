@@ -1,0 +1,887 @@
+{
+	autofocus_id: "4D92D2E0E3497100"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "chapter_7"
+	group: ""
+	icon: { Count: 7, id: "minecraft:blue_concrete_powder" }
+	id: "372715A171AF9AC6"
+	order_index: 6
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["3935834922D57818"]
+			hide_until_deps_complete: true
+			id: "325D794B17B0E623"
+			rewards: [
+				{
+					id: "323B3481272F6EFF"
+					type: "xp"
+					xp: 15
+				}
+				{
+					count: 16
+					id: "7FE8692DD0AF3F83"
+					item: "minecraft:egg"
+					type: "item"
+				}
+			]
+			subtitle: "You’re not just fighting monsters anymore — you’re feeding them pieces of yourself."
+			tasks: [{
+				consume_items: false
+				count: 12L
+				id: "55CAA121EA588F76"
+				item: { Count: 12, id: "dustydecorations:cooked_bratwurst" }
+				title: "Objective: &aCook 12x Bratwursts"
+				type: "item"
+			}]
+			title: "&aBlood and Brine Feast"
+			x: 0.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["325D794B17B0E623"]
+			hide_until_deps_complete: true
+			id: "5CA7668B0848D400"
+			rewards: [
+				{
+					id: "13A06114405E1724"
+					type: "xp"
+					xp: 20
+				}
+				{
+					id: "30282F1428C31804"
+					item: "alexsdelight:bison_mince"
+					type: "item"
+				}
+			]
+			subtitle: "Sleep means nothing now; you devour meat — Smoked Bratwurst, greasy Hamburgers — but you don’t taste it. It’s fuel for a body that’s long forgotten what warmth feels like."
+			tasks: [{
+				consume_items: false
+				count: 3L
+				id: "55E1F4950EEF7920"
+				item: { Count: 3, id: "farmersdelight:hamburger" }
+				title: "Objective: &aCraft 3x Hamburgers"
+				type: "item"
+			}]
+			title: "&aMeat for the Final March"
+			x: 0.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["5CA7668B0848D400"]
+			hide_until_deps_complete: true
+			id: "5796CE8699F549AC"
+			rewards: [{
+				id: "78B918127583BD35"
+				item: "refurbished_furniture:light_microwave"
+				type: "item"
+			}]
+			subtitle: "Between hunts you slump onto your Gray Sofa, staring blankly through cracked walls. The ceiling creaks. Somewhere outside, Herobrine’s laughter echoes through the storm."
+			tasks: [{
+				consume_items: false
+				id: "019CA7BF68418AE2"
+				item: "refurbished_furniture:gray_sofa"
+				title: "Objective: &aCraft a Gray Sofa"
+				type: "item"
+			}]
+			title: "&aRest in the Gray Hours"
+			x: 0.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["5796CE8699F549AC"]
+			hide_until_deps_complete: true
+			id: "6B6E2814C105A4C5"
+			rewards: [{
+				id: "135AA0A3B3DE05EF"
+				item: "minecraft:golden_apple"
+				type: "item"
+			}]
+			subtitle: "The ritual grows closer. You craft the Cursed Head — a replica of the thing that stalks you when your eyes close."
+			tasks: [{
+				consume_items: false
+				id: "65AA83A729C88A5A"
+				item: "endofherobrine:cursed_head"
+				title: "Objective: &6Craft a Cursed Head"
+				type: "item"
+			}]
+			title: "&6Cursed Effigy"
+			x: -2.5d
+			y: -8.5d
+		}
+		{
+			dependencies: ["6B6E2814C105A4C5"]
+			description: [
+				"{image:cavehorrorproject:textures/herobrine.png width:100 height:100 align:center}"
+				"{image:cavehorrorproject:textures/netherrack_totem.png width:30 height:100 align:center}"
+			]
+			hide_until_deps_complete: true
+			icon: "endofherobrine:netherrack_totem"
+			id: "5F6D49F43ABF2F9B"
+			rewards: [
+				{
+					count: 2
+					id: "71E93695DC582D19"
+					item: "minecraft:golden_apple"
+					type: "item"
+				}
+				{
+					id: "4AD2F0FB237DBF68"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+				{
+					exclude_from_claim_all: true
+					icon: "minecraft:ender_chest"
+					id: "2B4D105309A794CF"
+					table_id: 8108442881734338571L
+					title: "&9Choice Reward"
+					type: "choice"
+				}
+			]
+			subtitle: "You build the Netherrack Totem, crown it with gold, ignite it in the night wind. It flickers like a heartbeat. Somewhere, far off, a door creaks open in the dark."
+			tasks: [
+				{
+					consume_items: false
+					id: "266D313D27A8B099"
+					item: "endofherobrine:netherrack_totem"
+					title: "Objective: &aCraft and Build a Netherrack Totem"
+					type: "item"
+				}
+				{
+					advancement: "endofherobrine:story/battle"
+					criterion: ""
+					icon: "endofherobrine:herobrine_head"
+					id: "552412A6B1D80B07"
+					title: "Objective: &aDefeat Herobrine (for now...)"
+					type: "advancement"
+				}
+			]
+			title: "&aTotem of the Burning Omen"
+			x: -2.5d
+			y: -10.5d
+		}
+		{
+			dependencies: ["5F6D49F43ABF2F9B"]
+			description: [
+				"Crocodiles spawn in Rivers and Swamps."
+				"{image:cavehorrorproject:textures/crocodile.png width:100 height:50 align:center}"
+			]
+			hide_until_deps_complete: true
+			icon: "alexsmobs:spawn_egg_crocodile"
+			id: "11357801B6E46911"
+			rewards: [
+				{
+					count: 2
+					id: "0A4DCE5C01BD315F"
+					item: "alexsmobs:crocodile_scute"
+					type: "item"
+				}
+				{
+					id: "27B5A238C8779347"
+					type: "xp"
+					xp: 10
+				}
+			]
+			subtitle: "You wade into the swamps and drag down Crocodiles."
+			tasks: [{
+				entity: "alexsmobs:crocodile"
+				icon: "alexsmobs:spawn_egg_crocodile"
+				id: "5993293AB4F43B76"
+				title: "Objective: &aKill 2x Crocodiles"
+				type: "kill"
+				value: 2L
+			}]
+			title: "&aSwamp's Teeth"
+			x: -2.5d
+			y: -12.5d
+		}
+		{
+			dependencies: ["11357801B6E46911"]
+			hide_until_deps_complete: true
+			id: "74C0A6B75F3A629C"
+			rewards: [{
+				count: 2
+				id: "3E6425DBEDC9A929"
+				item: "minecraft:diamond"
+				type: "item"
+			}]
+			subtitle: "Tearing scales from their cold flesh to forge the Crocodile Chestplate — armor lined with primal teeth."
+			tasks: [{
+				consume_items: false
+				id: "6AA7705441348110"
+				item: {
+					Count: 1
+					id: "alexsmobs:crocodile_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				title: "Objective: &6Craft a Crocodile Chestplate"
+				type: "item"
+			}]
+			title: "&6Scaled Vest of the Marsh"
+			x: -2.5d
+			y: -14.5d
+		}
+		{
+			dependencies: ["5796CE8699F549AC"]
+			hide_until_deps_complete: true
+			id: "05FC5B78B0BE67F4"
+			rewards: [
+				{
+					id: "758DEAA6F8D051B0"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+				{
+					count: 2
+					id: "2466180EB8423A84"
+					item: "arphex:necrotic_fang"
+					type: "item"
+				}
+			]
+			subtitle: "But insects come next — you feel them under your skin, legs brushing your mind. You craft a Bug Repellant, stakes it in the dirt, watch crawling things writhe and burn."
+			tasks: [{
+				consume_items: false
+				id: "27FF462797FBC1F3"
+				item: "arphex:bug_repellant"
+				title: "Objective: &aCraft a Bug Repellant"
+				type: "item"
+			}]
+			title: "&aCircle of Pestilence"
+			x: 2.5d
+			y: -8.5d
+		}
+		{
+			dependencies: ["05FC5B78B0BE67F4"]
+			hide_until_deps_complete: true
+			id: "3293C2E997DD93D8"
+			rewards: [
+				{
+					count: 2
+					id: "38E99A2D15AA6192"
+					item: "arphex:burning_glands"
+					type: "item"
+				}
+				{
+					id: "6FDC76DCEA2A1533"
+					type: "xp"
+					xp: 15
+				}
+			]
+			subtitle: "But sometimes the swarm doesn’t care. It pushes back, crawls through the cracks, finds you when you sleep. So you craft the Bug Spray, pressurize it with poison and spit. You keep it strapped to your belt, your finger always twitching for the trigger. Every step into the burrows and hollow roots, you sweep it in slow arcs, a haze of vapor hissing through the dark. You hear the skittering stop, then start again deeper in the shadows."
+			tasks: [{
+				consume_items: false
+				id: "7708107EAB47DBBD"
+				item: "arphex:bug_spray"
+				title: "Objective: &aCraft a Bug Spray"
+				type: "item"
+			}]
+			title: "&aPruge the Crawlers"
+			x: 2.5d
+			y: -10.5d
+		}
+		{
+			dependencies: ["5796CE8699F549AC"]
+			hide_until_deps_complete: true
+			id: "727DF9B183C45A5E"
+			rewards: [{
+				id: "4DF5702D82F4C9B7"
+				item: "exposure:album"
+				type: "item"
+			}]
+			subtitle: "You pick up your Camera..."
+			tasks: [{
+				consume_items: false
+				id: "556FAB38BB8A377E"
+				item: "exposure:camera"
+				title: "Objective: &aCraft a Camera"
+				type: "item"
+			}]
+			title: "&aThrough the Lens of Madness"
+			x: 0.0d
+			y: -8.5d
+		}
+		{
+			dependencies: ["727DF9B183C45A5E"]
+			hide_until_deps_complete: true
+			id: "4B81634340844EBB"
+			rewards: [{
+				count: 2
+				id: "57A1CEFEB774353A"
+				item: "exposure:photograph_frame"
+				type: "item"
+			}]
+			subtitle: "...load Black\\&White Film and Color Film, and capture images that shouldn’t exist."
+			tasks: [
+				{
+					consume_items: false
+					id: "163D5EF1B275A161"
+					item: "exposure:black_and_white_film"
+					title: "Objective: &aCraft a Black and White Film"
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "2279A737F4639C4A"
+					item: "exposure:color_film"
+					title: "Objective: &aCraft a Color Film"
+					type: "item"
+				}
+			]
+			title: "&aCaptured Memories"
+			x: 0.0d
+			y: -10.5d
+		}
+		{
+			dependencies: ["4B81634340844EBB"]
+			hide_until_deps_complete: true
+			id: "43D615729004618C"
+			rewards: [
+				{
+					id: "47D28B43F370EA60"
+					item: "minecraft:paper"
+					type: "item"
+				}
+				{
+					id: "102602CAC67BA71E"
+					item: "minecraft:cyan_dye"
+					type: "item"
+				}
+				{
+					id: "3C97ADFF8330ADEE"
+					item: "minecraft:magenta_dye"
+					type: "item"
+				}
+				{
+					id: "1CC6CD5B24F50152"
+					item: "minecraft:yellow_dye"
+					type: "item"
+				}
+				{
+					id: "76E18BF86D9B8102"
+					item: "minecraft:black_dye"
+					type: "item"
+				}
+			]
+			subtitle: "Shadows flicker on the prints in your Lightroom — shapes that move when you blink, figures that were never there when you pressed the shutter."
+			tasks: [{
+				consume_items: false
+				id: "471A8FCCE5327BFE"
+				item: "exposure:lightroom"
+				title: "Objective: &aCraft a Lightroom"
+				type: "item"
+			}]
+			title: "&aManifest the Image"
+			x: 0.0d
+			y: -12.5d
+		}
+		{
+			dependencies: ["3293C2E997DD93D8"]
+			description: [
+				"Can spawn anywhere underground."
+				"{image:cavehorrorproject:textures/spider_recluse.png width:100 height:70 align:center}"
+			]
+			hide_until_deps_complete: true
+			icon: "arphex:spider_recluse_spawn_egg"
+			id: "55887960BBDCFC33"
+			rewards: [
+				{
+					count: 18
+					id: "02616DE06C08FD56"
+					item: "minecraft:string"
+					type: "item"
+				}
+				{
+					id: "0911FCF7E67BCEE9"
+					type: "xp"
+					xp: 20
+				}
+			]
+			subtitle: "When the tunnels open into the rotting green of the jungle, the real monsters wait. The Spider Recluse watches from its silken lair — not moving, just waiting. Its legs are thin, but its bite is thick with venom that curls your vision like scorched paper. You tear it down. Its body cracks under your blade. But you know it’s only the first."
+			tasks: [{
+				entity: "arphex:spider_recluse"
+				icon: "arphex:spider_recluse_spawn_egg"
+				id: "78FC9DB3E1000563"
+				title: "Objective: &6Kill 1x Spider Recluse"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&6Slay the Spider Recluse"
+			x: 2.5d
+			y: -12.5d
+		}
+		{
+			dependencies: ["55887960BBDCFC33"]
+			description: [
+				"Can spawn in Forests, Jungles, Swamps, Taigas and Plains."
+				"{image:cavehorrorproject:textures/spider_obstructer.png width:100 height:70 align:center}"
+			]
+			hide_until_deps_complete: true
+			icon: "arphex:spider_obstructer_spawn_egg"
+			id: "6AD834EFEBD13656"
+			rewards: [{
+				icon: "minecraft:ender_chest"
+				id: "214C588D42404A5A"
+				table_id: 5493175552888794680L
+				title: "&bRandom Reward"
+				type: "random"
+			}]
+			subtitle: "Deeper still, you meet the Spider Obstructer — bigger, thicker, armored in living web and bone. Its eyes glimmer behind a lattice of silk. You swing. It hisses, you swing again. The fight ends with wet cracking sounds that echo back down the tunnel behind you."
+			tasks: [{
+				entity: "arphex:spider_obstructer"
+				icon: "arphex:spider_obstructer_spawn_egg"
+				id: "276A5D7547E597EC"
+				title: "Objective: &6Kill 1x Spider Obstructer"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&6Break the Obstructer"
+			x: 2.5d
+			y: -14.5d
+		}
+		{
+			dependencies: [
+				"6AD834EFEBD13656"
+				"74C0A6B75F3A629C"
+			]
+			hide_until_deps_complete: true
+			icon: "arphex:crawling_compost"
+			id: "6977F44E2C1BE4A4"
+			rewards: [{
+				icon: "minecraft:ender_chest"
+				id: "3813C2D10562CCD7"
+				table_id: 5493175552888794680L
+				title: "&bRandom Reward"
+				type: "random"
+			}]
+			subtitle: "From its corpse, you scrape free Crawling Compost Chunks, still warm and pulsing faintly. You carry them like rotten fruit back to the surface, the smell following you like an invisible swarm. By the time you press them into shape, forming the Crawling Compost Block, you swear you see the soil twitch. Like it wants back in. Like it remembers your heartbeat."
+			tasks: [
+				{
+					consume_items: false
+					count: 4L
+					id: "6656D79C532E17FD"
+					item: { Count: 4, id: "arphex:crawling_compost_chunk" }
+					title: "Objective: &aObtain 4x Crawling Compost Chunks"
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "1AB8878265C0FA2B"
+					item: "arphex:crawling_compost"
+					title: "Objective: &aCraft a Crawling Compost block"
+					type: "item"
+				}
+			]
+			title: "&aRot from Below"
+			x: 0.0d
+			y: -16.0d
+		}
+		{
+			dependencies: ["6977F44E2C1BE4A4"]
+			hide_until_deps_complete: true
+			id: "19CE04FAB41BB20F"
+			rewards: [{
+				exclude_from_claim_all: true
+				icon: "minecraft:ender_chest"
+				id: "5E6564EDBFFA2E56"
+				table_id: 1384616004492253711L
+				title: "&9Choice Reward"
+				type: "choice"
+			}]
+			subtitle: "Deeper still, you piece together the Abyssal Annihilator, its barrel humming with the promise of ruin — a roar that will level walls, burrow holes in monsters too arrogant to crawl away."
+			tasks: [{
+				consume_items: false
+				id: "4DDAC8EC773A538B"
+				item: "arphex:abyssal_annihilator"
+				title: "Objective: &cCraft an Abyssal Annihilator"
+				type: "item"
+			}]
+			title: "&cAbyssal Annihilation"
+			x: 0.0d
+			y: -18.0d
+		}
+		{
+			dependencies: ["22C447F9C066C076"]
+			description: [
+				"Draconic Voidlasher can spawn in the end."
+				"In needs to be Raining or a Thunderstorm in order for Voidlasher to spawn (even if he spawns in the End!)"
+				""
+				"Additionaly you can summon him by placing a soul sand block on top of a mangled fly flesh block, then lighting it on fire."
+				"{image:cavehorrorproject:textures/draconic_voidlasher.png width:100 height:90 align:center}"
+			]
+			hide_until_deps_complete: true
+			icon: "arphex:draconic_voidlasher_spawn_egg"
+			id: "2200FB6378013590"
+			rewards: [
+				{
+					count: 3
+					id: "47AD6A9470280E7E"
+					item: "minecraft:enchanted_golden_apple"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					icon: "minecraft:ender_chest"
+					id: "16D808A0811A35D6"
+					table_id: 3229567124906618931L
+					title: "&9Choice Reward"
+					type: "choice"
+				}
+				{
+					id: "35F1AC955F5EBC8A"
+					type: "xp"
+					xp: 30
+				}
+			]
+			subtitle: "But the kill was only the key. The way forward bends upward now — into the End’s abyss, where reality thins to nothing but obsidian and shrieking wind. There, coiled around a tower of cracked bedrock, waits the Draconic Voidlasher — a dragon warped by something older than dragons themselves. Its scales glisten with voidlight, its roar shreds the sky into static. The battle feels like clawing open your own ribcage. Each swing bounces off its armor until you slip beneath its wings, your Abyssal Axe singing, your boots scraping across floating stone. When the beast collapses, it vomits starlight and glassy shards — the Void Geode, pulsing in your palm like a cold second heart."
+			tasks: [{
+				entity: "arphex:draconic_voidlasher"
+				icon: "arphex:draconic_voidlasher_spawn_egg"
+				id: "74388831409B0B91"
+				title: "Objective: &4Kill the Draconic Voidlasher"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&4Draconic Eclipse"
+			x: 0.0d
+			y: -22.0d
+		}
+		{
+			dependencies: ["19CE04FAB41BB20F"]
+			description: [
+				"Can spawn in Forests."
+				"{image:cavehorrorproject:textures/spider_reaper.png width:100 height:70 align:center}"
+			]
+			hide_until_deps_complete: true
+			icon: "arphex:spider_reaper_spawn_egg"
+			id: "22C447F9C066C076"
+			rewards: [
+				{
+					id: "3FDC3776EE2F58BC"
+					item: "arphex:mantle_of_vitality"
+					type: "item"
+				}
+				{
+					id: "6736A4033DF29A9F"
+					item: "minecraft:netherite_scrap"
+					type: "item"
+				}
+			]
+			subtitle: "The tunnels that birthed the Spider Obstructer lead further than you wanted to go. You keep thinking you’ll turn back — but the walls close behind you like the throat of something alive. Somewhere down there, hidden among roots like black veins, you find it: the Spider Reaper. Taller than any cave ceiling, legs bristling like spears, its fangs dripping void. You fight it in the pitch dark, your torch snuffed by the wind of its wings. Its hiss rattles your teeth, its claws scrape your armor. When you finally drive your blade through its swollen abdomen, it splits open like a rotten fruit, leaking poison and whispers that stick to your skin."
+			tasks: [{
+				entity: "arphex:spider_reaper"
+				icon: "arphex:spider_reaper_spawn_egg"
+				id: "2FDF71E9F0FA1D0B"
+				title: "Objective: &cKill 1x Spider Reaper"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&cReap the Void's Fangs"
+			x: 0.0d
+			y: -20.0d
+		}
+		{
+			dependencies: ["2200FB6378013590"]
+			hide_until_deps_complete: true
+			id: "7F212AC28F1EFBF2"
+			rewards: [
+				{
+					id: "721AEE48C1FE1DA1"
+					item: "arphex:void_geode_shard"
+					type: "item"
+				}
+				{
+					id: "536EEB542FB7D8DC"
+					item: "minecraft:diamond"
+					type: "item"
+				}
+				{
+					id: "5823DBF367D8BFDC"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			subtitle: "You know what you’re building next. You drag that geode back through the End Gate, toss it onto the forge, and hammer its shards into shape. The metal hisses when it touches the anvil — Umbral, the name you breathe as if it might burn your tongue."
+			tasks: [{
+				id: "5F169113931F9A1F"
+				item: "arphex:void_geode"
+				title: "Objective: &6Obtain a Void Geode"
+				type: "item"
+			}]
+			title: "&6The Geode's Heart"
+			x: 0.0d
+			y: -24.0d
+		}
+		{
+			dependencies: [
+				"5E4204BDD44A681D"
+				"1EF4028646664460"
+				"4A23B17CE06CA32C"
+				"79CF610CCCB5C591"
+			]
+			hide_until_deps_complete: true
+			id: "564328759DEF0A0C"
+			rewards: [
+				{
+					icon: "minecraft:ender_chest"
+					id: "3A89006F7AA90CF7"
+					table_id: 8108442881734338571L
+					title: "&bRandom Reward"
+					type: "random"
+				}
+				{
+					count: 10
+					id: "2F45E816393EF6D9"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "5A065BE961B0E85C"
+					item: "arphex:bane_of_the_darkness"
+					type: "item"
+				}
+			]
+			subtitle: "But the final act is not just to wear the dark — you must wield it too. You fuse your last Void Geode fragments with the abyssal remains of everything you’ve slain, shaping them into a blade like no other: the Abyss Ascendant. When you lift it from the forge, the air bends around its edge — swings that fire projectiles, block damage, even lift you into the sky. If you dare hold another in your other hand, the darkness grants you flight without limit. If you dare."
+			tasks: [{
+				consume_items: false
+				id: "4C533F7E687931E3"
+				item: "arphex:abyss_ascendant"
+				title: "Objective: &cCraft an Abyss Ascendant"
+				type: "item"
+			}]
+			title: "&cThe Abyss Ascends"
+			x: 0.0d
+			y: -29.0d
+		}
+		{
+			dependencies: ["7F212AC28F1EFBF2"]
+			description: ["{image:cavehorrorproject:textures/umbral_chestplate.png width:200 height:100 align:center}"]
+			hide_until_deps_complete: true
+			id: "1EF4028646664460"
+			rewards: [{
+				count: 2
+				id: "241C9BB158114FEF"
+				item: "minecraft:golden_apple"
+				type: "item"
+			}]
+			subtitle: "Next, the Umbral Chestplate — plates layered like the scales of the Voidlasher, designed to swallow flame, claw, and spell alike. You feel heavier under its weight, but stronger too — like the darkness is lifting you even as it buries you."
+			tasks: [{
+				consume_items: false
+				id: "6FFD10B125156D3A"
+				item: {
+					Count: 1
+					id: "arphex:umbral_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				title: "Objective: &cCraft an Umbral Chestplate"
+				type: "item"
+			}]
+			title: "&cUmbral Carapace"
+			x: -1.5d
+			y: -26.5d
+		}
+		{
+			dependencies: ["7F212AC28F1EFBF2"]
+			description: ["{image:cavehorrorproject:textures/umbral_leggings.png width:200 height:100 align:center}"]
+			hide_until_deps_complete: true
+			id: "4A23B17CE06CA32C"
+			rewards: [{
+				count: 2
+				id: "6184124A5138BC4C"
+				item: "minecraft:golden_apple"
+				type: "item"
+			}]
+			subtitle: "Then come the Umbral Leggings, stitched with scraps of the crawling dimension’s silk, reinforced with slivers of void crystal. They move like liquid shadow against your skin, silent as the whispers you’ve tried to drown for nights on end."
+			tasks: [{
+				consume_items: false
+				id: "4B0192F59ED2DD34"
+				item: {
+					Count: 1
+					id: "arphex:umbral_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				title: "Objective: &cCraft Umbral Leggings"
+				type: "item"
+			}]
+			title: "&cUmbral Shackles"
+			x: 1.5d
+			y: -26.5d
+		}
+		{
+			dependencies: ["7F212AC28F1EFBF2"]
+			description: ["{image:cavehorrorproject:textures/umbral_boots.png width:200 height:100 align:center}"]
+			hide_until_deps_complete: true
+			id: "79CF610CCCB5C591"
+			rewards: [{
+				count: 3
+				id: "70C3BF87B21AE85A"
+				item: "minecraft:diamond"
+				type: "item"
+			}]
+			subtitle: "Finally, you seal the set with the Umbral Boots, plated and padded for steps that carry the weight of your sins. Each footprint you leave behind soaks into the dirt — black, fading like smoke — as if the earth itself wants no trace of you left behind."
+			tasks: [{
+				consume_items: false
+				id: "2C88C06806E97E0A"
+				item: {
+					Count: 1
+					id: "arphex:umbral_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				title: "Objective: &cCraft Umbral Boots"
+				type: "item"
+			}]
+			title: "&cUmbral Stride"
+			x: 3.5d
+			y: -26.5d
+		}
+		{
+			dependencies: ["7F212AC28F1EFBF2"]
+			description: ["{image:cavehorrorproject:textures/umbral_helmet.png width:200 height:100 align:center}"]
+			hide_until_deps_complete: true
+			id: "5E4204BDD44A681D"
+			rewards: [{
+				count: 3
+				id: "0755C3600085395D"
+				item: "minecraft:diamond"
+				type: "item"
+			}]
+			subtitle: "You craft the Umbral Helmet first — a visor of black steel that hums with unspoken promises. You slide it over your head and the world turns darker — but sharper too, like a hunter’s eyes under a new moon."
+			tasks: [{
+				consume_items: false
+				id: "59478F6339EDEB8D"
+				item: {
+					Count: 1
+					id: "arphex:umbral_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				title: "Objective: &cCraft an Umbral Helmet"
+				type: "item"
+			}]
+			title: "&cUmbral Mask"
+			x: -3.5d
+			y: -26.5d
+		}
+		{
+			dependencies: ["564328759DEF0A0C"]
+			hide_until_deps_complete: true
+			id: "61C4C4B89CBBC658"
+			rewards: [{
+				exclude_from_claim_all: true
+				icon: "minecraft:ender_chest"
+				id: "6617B918C64BAD9E"
+				table_id: 3600346670507867016L
+				title: "&9Choice Reward"
+				type: "choice"
+			}]
+			subtitle: "And when the weight of this new crown grows too much — when you need a place the dark can’t touch — you craft the Crawling Container. A pocket dimension stitched together by the scraps of your mind. A single chunk of nowhere, floating above the Crawling like a tumor you own. You step inside, and for a heartbeat, nothing can reach you. For a heartbeat, you are safe."
+			tasks: [{
+				consume_items: false
+				id: "039BA520AD70E48C"
+				item: "arphex:crawling_container"
+				title: "Objective: &cCraft a Crawling Container"
+				type: "item"
+			}]
+			title: "&cPocket of the Crawling"
+			x: 0.0d
+			y: -31.0d
+		}
+		{
+			dependencies: ["61C4C4B89CBBC658"]
+			hide_until_deps_complete: true
+			id: "1BD2932832B6BF5B"
+			rewards: [
+				{
+					count: 5
+					id: "20751928417C019B"
+					item: "farmersrespite:long_dandelion_tea"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "15DAB4153818A4C5"
+					item: "farmersdelight:mutton_wrap"
+					type: "item"
+				}
+			]
+			subtitle: "When it’s done, you light a small fire. You break open a piece of Coffin Bread, stale but warm, and swallow it down. A funeral for the Draconic Voidlasher. A funeral for the last piece of yourself you were hoping to keep."
+			tasks: [{
+				consume_items: false
+				id: "3CA67DB703668D19"
+				item: "undead_revamp2:coffinbroad"
+				title: "Objective: &aCraft a Coffin Bread"
+				type: "item"
+			}]
+			title: "&aCoffin's Crust"
+			x: 0.0d
+			y: -33.0d
+		}
+		{
+			dependencies: ["4237946A88375B66"]
+			hide_until_deps_complete: true
+			id: "3935834922D57818"
+			rewards: [{
+				auto: "enabled"
+				description: ""
+				icon: { Count: 7, id: "minecraft:blue_concrete_powder" }
+				id: "3705AEFAD2206CD8"
+				title: "&9Welcome to Chapter 7!"
+				type: "toast"
+			}]
+			shape: "rsquare"
+			size: 1.5d
+			subtitle: "The walls of reality are now so thin you can almost push your hand through them."
+			tasks: [{
+				icon: { Count: 7, id: "minecraft:blue_concrete_powder" }
+				id: "031CD5C5B56404FD"
+				stat: "minecraft:play_time"
+				title: "&9Chapter 7 is now unlocked!"
+				type: "stat"
+				value: 1
+			}]
+			title: "&9Welcome to Chapter 7 of Cave Horror Project!"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1BD2932832B6BF5B"]
+			hide_until_deps_complete: true
+			id: "3804E67DFD83DA97"
+			rewards: [{
+				auto: "enabled"
+				description: ""
+				icon: { Count: 8, id: "minecraft:gray_concrete_powder" }
+				id: "6863ACB25BA66EC6"
+				title: "&7Get ready for Chapter 8!"
+				type: "toast"
+			}]
+			shape: "rsquare"
+			size: 1.5d
+			subtitle: "Outside, the Crawling waits. But you do too — armed, armored, and wrapped in shadows you made your own."
+			tasks: [{
+				icon: { Count: 8, id: "minecraft:gray_concrete_powder" }
+				id: "07B4732C136640A6"
+				stat: "minecraft:play_time"
+				title: "&7Chapter 8 will be available soon!"
+				type: "stat"
+				value: 1
+			}]
+			title: "&7Chapter 8 will be available soon!"
+			x: 0.0d
+			y: -35.25d
+		}
+	]
+	subtitle: ["&9CHAPTER 7"]
+	title: "&9Veil of Crawling Shadows"
+}

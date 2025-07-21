@@ -1,0 +1,17 @@
+{
+	id: "836b708e-46dc-3b7e-95d3-8bf500e24e7e"
+	type: "player"
+	player_name: "clqwn"
+	ranks: {
+		836b708e-46dc-3b7e-95d3-8bf500e24e7e: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "clqwn"
+		"ftbteams:description": ""
+		"ftbteams:color": "#5AFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
